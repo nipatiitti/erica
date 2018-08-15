@@ -1,0 +1,8 @@
+{
+  "name": "erica-server",
+  "version": "1.0.0",
+  "description": "server for erica app",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
